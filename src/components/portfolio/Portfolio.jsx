@@ -63,7 +63,7 @@ export default function Portfolio() {
           />
         ))}
       </ul>
-       <div className="container">
+      {/* <div className="container">
         {data.map((d) => (
           <div className="item">
             <img src={d.img} alt=""></img>
@@ -71,7 +71,7 @@ export default function Portfolio() {
             <h3>{d.title}</h3>
           </div>
         ))}
-      </div> 
+      </div>  */}
     </div>
   );
 }
