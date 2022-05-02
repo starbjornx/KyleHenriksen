@@ -20,7 +20,6 @@ function Contact() {
           <button type="submit">Send</button>
           {message && <span>Thank you for you email I will reply ASAP!</span>}
         </form>
-        <h5>My Resume`</h5>
       </div>
     </div>
   );

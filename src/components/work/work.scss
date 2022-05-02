@@ -7,6 +7,11 @@
   justify-content: center;
   position: relative;
 
+  h1 {
+    margin-bottom: 650px;
+    color: white;
+  }
+
   .arrow {
     height: 350px;
     position: absolute;
@@ -75,7 +80,7 @@
               height: 100%;
             }
             .imgContainer {
-              width: 80px;
+              width: 90px;
               height: 80px;
               border-radius: 50%;
               background-color: rgb(245, 179, 155);
@@ -89,7 +94,7 @@
               }
 
               img {
-                width: 25px;
+                width: 55px;
 
                 @include mobile {
                   width: 15px;
@@ -105,7 +110,7 @@
               }
             }
             p {
-              font-size: 12px;
+              font-size: 8px;
               width: 100%;
 
               @include mobile {
@@ -120,17 +125,21 @@
               }
             }
           }
-          .right {
-            flex: 8;
+        }
+        .right {
+          flex: 8;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          overflow: hidden;
+          img {
+            width: 90%;
             height: 100%;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            overflow: hidden;
-            img {
+            transform: rotate(-13deg);
+
+            @include mobile {
               width: 100%;
-              height: 100%;
-              transform: rotate(-20deg);
             }
           }
         }

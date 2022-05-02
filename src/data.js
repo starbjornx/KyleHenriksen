@@ -3,15 +3,18 @@ export const featuredPortfolio = [{
     id: 1,
     title: "Stumble Upon the Force",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc3lvF-gxI8OTue-htIYqO2TtGpsUwiMf67Q&usqp=CAU",
+    link: "https://par92.github.io/group-6/",
 
 }, {
     id: 2,
     title: "Richmond AFC",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeoRKvPtMKkfFbHCryacu2642fzehBta56UQ&usqp=CAU",
+    link: "https://rocky-ridge-05041.herokuapp.com/",
 }, {
     id: 3,
     title: "Elden Ring",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGegmrX_pldFbhVrVriuscZGguXNL0ysK-g&usqp=CAU",
+    link: "https://eldenmarket.herokuapp.com/",
 }, {
 
     id: 4,
@@ -25,7 +28,7 @@ export const featuredPortfolio = [{
 }, {
     id: 6,
     title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMOUPoKkZTTNy_X3_VJgttGHyXQWauoBc4w&usqp=CAU"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 },];
 export const webPortfolio = [{
 
