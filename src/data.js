@@ -25,10 +25,6 @@ export const featuredPortfolio = [{
     id: 5,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-}, {
-    id: 6,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 },];
 export const webPortfolio = [{
 
@@ -53,31 +49,6 @@ export const webPortfolio = [{
 
 }, {
     id: 5,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 6,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 7,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 8,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 9,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 10,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
@@ -109,31 +80,6 @@ export const mobilePortfolio = [{
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
-}, {
-    id: 6,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 7,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 8,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 9,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 10,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
 },];
 
 export const designPortfolio = [{
@@ -162,31 +108,6 @@ export const designPortfolio = [{
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
-}, {
-    id: 6,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 7,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 8,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 9,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 10,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
 },];
 
 export const contentPortfolio = [{
@@ -212,31 +133,6 @@ export const contentPortfolio = [{
 
 }, {
     id: 5,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 6,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 7,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 8,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 9,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
-}, {
-    id: 10,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
