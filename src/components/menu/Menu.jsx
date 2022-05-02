@@ -19,6 +19,11 @@ export default function menu({ menuOpen, setMenuOpen }) {
         <li onClick={() => setMenuOpen(false)}>
           <a href="#contact">Contact</a>
         </li>
+        <li onClick={() => setMenuOpen(false)}>
+          <a href="https://my.indeed.com/p/kyleh-a0ebx3q" target="_blank">
+            Resume`
+          </a>
+        </li>
       </ul>
     </div>
   );

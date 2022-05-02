@@ -88,4 +88,18 @@
       }
     }
   }
+  h5 {
+    border: 1px solid red;
+    background-color: crimson;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 500;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
 }

@@ -72,6 +72,11 @@ export default function Portfolio() {
           </div>
         ))}
       </div>
+      <h5>
+        <a href="https://my.indeed.com/p/kyleh-a0ebx3q" target="_blank">
+          My Resume`
+        </a>
+      </h5>
     </div>
   );
 }

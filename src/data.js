@@ -26,22 +26,6 @@ export const featuredPortfolio = [{
     id: 6,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMOUPoKkZTTNy_X3_VJgttGHyXQWauoBc4w&usqp=CAU"
-}, {
-    id: 7,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMOUPoKkZTTNy_X3_VJgttGHyXQWauoBc4w&usqp=CAU"
-}, {
-    id: 8,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMOUPoKkZTTNy_X3_VJgttGHyXQWauoBc4w&usqp=CAU"
-}, {
-    id: 9,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMOUPoKkZTTNy_X3_VJgttGHyXQWauoBc4w&usqp=CAU"
-}, {
-    id: 10,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMOUPoKkZTTNy_X3_VJgttGHyXQWauoBc4w&usqp=CAU"
 },];
 export const webPortfolio = [{
 
