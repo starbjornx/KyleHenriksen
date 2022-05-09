@@ -21,10 +21,10 @@ export default function Intro() {
       </div>
       <div className="right">
         <div className="wrapper">
-          <h1>Welcome! My name is,</h1>
-          <h2>Kyle Henriksen</h2>
+          <h1>Hello!</h1>
+          <h2>My name is Kyle Henriksen</h2>
           <h3>
-            a Junior Web:<span ref={textRef}></span>
+            I am Junior Web:<span ref={textRef}></span>
           </h3>
         </div>
         <a href="#portfolio">
