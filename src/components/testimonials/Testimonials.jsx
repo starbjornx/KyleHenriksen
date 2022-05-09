@@ -8,10 +8,10 @@ export default function Testimonial() {
       name: "Your Name!",
       title: "Your Title!",
       img: "assets/person2.jpg",
-      icon: "assets/GitHub-Logo.png",
-      desc: "Want to be part of my Tesitomnial page? Email me!",
+      icon: "assets/twitter.png",
+      desc: "Want to be part of my Testimonial page? Email me!",
 
-      link: "https://github.com/benjaminmachock",
+      link: "https://github.com/",
     },
     {
       id: 2,
@@ -19,7 +19,7 @@ export default function Testimonial() {
       title: "Class Room Instructor",
       img: "https://avatars.githubusercontent.com/u/43613715?v=4",
       icon: "assets/GitHub-Logo.png",
-      desc: "'The Elden Ring project has a professional style to it.'",
+      desc: "Wow, Elden Ring project looks professionally styled. Great work!",
       link: "https://github.com/benjaminmachock",
       featured: true,
     },
@@ -28,9 +28,9 @@ export default function Testimonial() {
       name: "Your Name!",
       title: "Your Title!",
       img: "assets/person3.jpg",
-      icon: "assets/GitHub-Logo.png",
-      desc: "Want to be part of my Tesitomnial page? Email me!",
-      link: "https://github.com/benjaminmachock",
+      icon: "assets/facebook.png",
+      desc: "Want to be part of my Testimonial page? Email me!",
+      link: "https://github.com/",
     },
   ];
   return (
