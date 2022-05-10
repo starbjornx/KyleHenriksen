@@ -103,6 +103,9 @@
         }
         h4 {
           color: blue;
+          align-items: center;
+          justify-content: center;
+
           @include mobile {
             font-size: 13px;
           }

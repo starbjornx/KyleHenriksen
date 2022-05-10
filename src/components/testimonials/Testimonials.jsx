@@ -16,7 +16,7 @@ export default function Testimonial() {
     {
       id: 2,
       name: "Benjamin Machock",
-      title: "Class Room Instructor",
+      title: "DU Instructor",
       img: "https://avatars.githubusercontent.com/u/43613715?v=4",
       icon: "assets/GitHub-Logo.png",
       desc: "Wow, Elden Ring project looks professionally styled. Great work!",
