@@ -13,7 +13,7 @@ function ContactForm() {
         <img src="assets/hands.svg" alt="" />
       </div>
       <div className="right">
-        <h2>Contact.</h2>
+        <h2 className="star">Contact.</h2>
         <form onSubmit={handleSubmit}>
           <label htmlFor="email">Email Address</label>
           <input id="email" type="email" name="email" />

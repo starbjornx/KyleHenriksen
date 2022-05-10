@@ -1,14 +1,36 @@
 @import "../../global.scss";
 
+.star {
+  // @import url("https://fonts.googleapis.com/css2?family=Anton&family=Bungee&family=EB+Garamond&family=Orbitron:wght@900&family=Passion+One:wght@700&display=swap");
+  //font-family: Garamond;
+  font-size: 2.5rem;
+  background-color: #f3ec78;
+  background: url(https://media4.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+
 .portfolio {
-  background: url(https://giphy.com/gifs/TOEIAnimationUK-dragon-ball-super-goku-ultra-instinct-mastered-8hROtDO2npJNQEiwCX);
-  // background-color: rgb(255, 187, 0);
+  // background: url(https://www.animatedimages.org/data/media/1151/animated-dragonball-z-image-0005.gif)
+  //   no-repeat center center fixed;
+  background: url(https://media4.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif)
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  // background-size: 100%;
+  // background: url(https://giphy.com/gifs/TOEIAnimationUK-dragon-ball-super-goku-ultra-instinct-mastered-8hROtDO2npJNQEiwCX);
+  // background-color: rgb(255, 255, 0);
   display: flex;
   flex-direction: column;
   align-items: center;
 
   h1 {
-    font-size: 50px;
+    font-size: 75px;
     @include mobile {
       font-size: 20px;
     }
@@ -125,7 +147,7 @@
     display: flex;
     @include mobile {
       font-size: 8px;
-      width: 100%;
+      width: 80%;
     }
     p {
       width: 80%;

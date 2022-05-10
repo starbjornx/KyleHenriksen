@@ -52,7 +52,7 @@ export default function Portfolio() {
 
   return (
     <div className="portfolio" id="portfolio">
-      <h1>Portfolio</h1>
+      <h1 className="star">Portfolio</h1>
       <ul>
         {list.map((item) => (
           <PortfolioList
@@ -87,19 +87,17 @@ export default function Portfolio() {
           <div className="styling">
             <p>
               I am the father of two wonderful children, I enjoy playing video
-              games as it is my favorite hobby. Other outdoor activies such as
-              snowboarding, white water rafting, cycling, gun range shooting, I
-              greatly enjoy. There are things I have yet to do that I really
-              want to such as, hunting and skydiving! I have a passion for
-              computers I can get lost spending roughly 8 to 12 hours behind a
-              computer and not even realize that much time has gone by. I love
-              my family with all my heart I would do anything for them. I am a
-              previous business owner myself I owned the Nevada Youth Football
-              League (origin : Las Vegas) I have managed anywhere from 30 to 50
-              teams each team roughly had 5 coaches and 20-32 players. Critical
-              thinking and solving complex issues as well as time management and
-              working as a team is something I picked up while running the NYFL
-              program from 2009 to 2019.
+              games as it is my favorite hobby. I enjoy other outdoor activies
+              such as snowboarding, white water rafting, cycling & gun range
+              shooting. There are things I have yet to do that I really want to
+              such as, hunting and skydiving! I am a previous business owner I
+              owned the Nevada Youth Football League, I have managed between 30
+              to 50 teams per season (spring & fall) each team roughly had 5
+              coaches and 20-32 players. Critical thinking as well as time
+              management, working as a team, organizational skills for teams and
+              keeping track of important documents banking and city documents is
+              something I picked up while running the NYFL program from 2009 to
+              2019.
             </p>
           </div>
         </div>

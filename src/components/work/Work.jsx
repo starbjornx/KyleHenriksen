@@ -35,8 +35,8 @@ function Work() {
       : setCurrentSlider(currentSlide < data.length - 1 ? currentSlide + 1 : 0);
   };
   return (
-    <div className="work" id="work">
-      <h1>Completed Work</h1>
+    <div className="work background" id="work">
+      <h1 className="star">Completed Work</h1>
       <div
         className="slider"
         style={{ transform: `translateX(-${currentSlide * 100}vw)` }}
