@@ -93,11 +93,14 @@ export default function Portfolio() {
               such as, hunting and skydiving! I am a previous business owner I
               owned the Nevada Youth Football League, I have managed between 30
               to 50 teams per season (spring & fall) each team roughly had 5
-              coaches and 20-32 players. Critical thinking as well as time
-              management, working as a team, organizational skills for teams and
-              keeping track of important documents banking and city documents is
-              something I picked up while running the NYFL program from 2009 to
-              2019.
+              coaches and 20-32 players. Things I learned while running the NYFL
+              are, critical thinking, time management, working as a team,
+              organizational skills, keeping track of important documents such
+              as banking and city documents for the program from 2009 to 2021.
+              During the COVID pandemic I also went into construction from 2021
+              to 2022. With the experience of working in construction I have
+              determined that I would be much happier working on computers, it
+              is a passion of mine!
             </p>
           </div>
         </div>

@@ -8,15 +8,15 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
-            XP:jr.web-dev
+            <p className="background">XP:jr.web-dev</p>
           </a>
-          <div className="itemContainer">
+          <div className="itemContainer ">
             <Person className="icon" />
-            <span>+702-379-8691</span>
+            <span className="star">+702-379-8691</span>
           </div>
           <div className="itemContainer">
             <EmailIcon className="icon" />
-            <span>khenriksen09@outlook.com</span>
+            <span className="star">khenriksen09@outlook.com</span>
           </div>
         </div>
 

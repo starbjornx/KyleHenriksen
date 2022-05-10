@@ -1,5 +1,20 @@
 @import "../../global.scss";
 
+.backup {
+  // background: url(https://www.animatedimages.org/data/media/1151/animated-dragonball-z-image-0005.gif)
+  //   no-repeat center center fixed;
+  background: url(https://media4.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif)
+    no-repeat left center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: 50%;
+  @include mobile {
+    background-size: 200%;
+  }
+}
+
 .intro {
   background-color: #ffffff;
   display: flex;
