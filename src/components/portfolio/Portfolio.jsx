@@ -86,19 +86,20 @@ export default function Portfolio() {
           <h1>About me</h1>
           <div className="styling">
             <p>
-              I am the father of two wonderful children, they are my motivation
-              in life to keep going on no matter how difficult life may get! I
-              enjoy playing video games its my number one hobby. I enjoy doing
-              activies such as snowboarding, white water rafting. There are
-              things I have yet to do that I really want to, hunting and
-              skydiving! I have a passion for computers I can easily spend 12
-              hours behind a computer and not even realize that much time has
-              gone by. I love my family with all my heart I would do anything
-              for them. I am a previous business owner myself I owned the Nevada
-              Youth Football League (origin : Las Vegas) I managed 50 teams each
-              team roughly had 5 coaches and 20-32 players. Critical thinking
-              and solving complex issues is something I picked up while running
-              the Youth Football program from 2009 to 2019.
+              I am the father of two wonderful children, I enjoy playing video
+              games as it is my favorite hobby. Other outdoor activies such as
+              snowboarding, white water rafting, cycling, gun range shooting, I
+              greatly enjoy. There are things I have yet to do that I really
+              want to such as, hunting and skydiving! I have a passion for
+              computers I can get lost spending roughly 8 to 12 hours behind a
+              computer and not even realize that much time has gone by. I love
+              my family with all my heart I would do anything for them. I am a
+              previous business owner myself I owned the Nevada Youth Football
+              League (origin : Las Vegas) I have managed anywhere from 30 to 50
+              teams each team roughly had 5 coaches and 20-32 players. Critical
+              thinking and solving complex issues as well as time management and
+              working as a team is something I picked up while running the NYFL
+              program from 2009 to 2019.
             </p>
           </div>
         </div>
