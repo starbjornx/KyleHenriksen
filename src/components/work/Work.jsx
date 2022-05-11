@@ -36,9 +36,7 @@ function Work() {
   };
   return (
     <div className="work background" id="work">
-      <h1 className="star" style={"fontSize: 24px"}>
-        Completed Work
-      </h1>
+      <h1 className="star">Completed Work</h1>
       <div
         className="slider"
         style={{ transform: `translateX(-${currentSlide * 100}vw)` }}
