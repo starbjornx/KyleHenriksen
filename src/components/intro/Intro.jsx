@@ -24,7 +24,7 @@ export default function Intro() {
           <h1 className="star">Hello!</h1>
           <h2>My name is Kyle Henriksen</h2>
           <h3>
-            I am Junior Web:<span className="star" ref={textRef}></span>
+            I am a Junior Web:<span className="star" ref={textRef}></span>
           </h3>
         </div>
         <a href="#portfolio">

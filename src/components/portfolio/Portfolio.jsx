@@ -86,21 +86,25 @@ export default function Portfolio() {
           <h1>About me</h1>
           <div className="styling">
             <p>
-              I am the father of two wonderful children, I enjoy playing video
-              games as it is my favorite hobby. I enjoy other outdoor activies
-              such as snowboarding, white water rafting, cycling & gun range
-              shooting. There are things I have yet to do that I really want to
-              such as, hunting and skydiving! I am a previous business owner I
-              owned the Nevada Youth Football League, I have managed between 30
-              to 50 teams per season (spring & fall) each team roughly had 5
-              coaches and 20-32 players. Things I learned while running the NYFL
-              are, critical thinking, time management, working as a team,
-              organizational skills, keeping track of important documents such
-              as banking and city documents for the program from 2009 to 2021.
-              During the COVID pandemic I also went into construction from 2021
-              to 2022. With the experience of working in construction I have
-              determined that I would be much happier working on computers, it
-              is a passion of mine!
+              Well, the first thing that comes to my mind is that when I was a
+              young adult (18) was that I was fortunate enough to travel around
+              the world and see some pretty awesome things. My most favorite
+              place I have been to was Berlin.I got to see old castles that
+              looked bran new, I have been to the Judisam Musem and even got to
+              touch the Berlin Wall. Being able to travel was a great experience
+              and I am very greateful to have had that opportunity to travel.
+              After that I came back and started my life journey, the first
+              thing was to get a career going and then settle down to start a
+              family. I had been mentored by my father to give me the necessary
+              tools and experience in starting and managing a business. I became
+              the owner of the NYFL in 2009. After the COVID pandemic I lost the
+              NYFL and sense then have decided to start a new career which is
+              web development. I have two amazing children in my life my
+              daughter Noelle and my son Lance. I try to be the best father I
+              can be for them. Some of my hobbies include gaming, hiking,
+              biking, as well as white water rafting which I hope to do more of
+              in the near future. Thats a little bit about me I hope that you
+              have enjoyed reading this and I look forward to working with you!
             </p>
           </div>
         </div>
