@@ -19,11 +19,9 @@ export default function Portfolio() {
     },
     {
       id: "web",
-      title: "Web App",
+      title: "DU Assignments",
     },
-    { id: "mobile", title: "Mobile App" },
-
-    { id: "design", title: "Design" },
+    { id: "mobile", title: "Future Development" },
 
     { id: "content", title: "Content" },
   ];
@@ -75,11 +73,13 @@ export default function Portfolio() {
           </div>
         ))}
       </div>
-      <h5 type="button">
-        <a href="https://my.indeed.com/p/kyleh-1khvfbl" target="_blank">
-          My Resume`
-        </a>
-      </h5>
+      <a
+        href="https://my.indeed.com/p/kyleh-1khvfbl"
+        target="_blank"
+        style={{ textDecoration: "none" }}
+      >
+        <button className="resume">My Resume`</button>{" "}
+      </a>
     </div>
   );
 }

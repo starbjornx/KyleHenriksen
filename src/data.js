@@ -12,8 +12,8 @@ export const featuredPortfolio = [{
     link: "https://rocky-ridge-05041.herokuapp.com/",
 }, {
     id: 3,
-    title: "Elden Ring",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGegmrX_pldFbhVrVriuscZGguXNL0ysK-g&usqp=CAU",
+    title: "Elden Ring Market",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1sQxj6Mb9cpu8ZSUcXtOpOZwA-6THDn-YjQ&usqp=CAU",
     link: "https://eldenmarket.herokuapp.com/",
 }, {
 
@@ -25,21 +25,27 @@ export const featuredPortfolio = [{
     id: 5,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+}, {
+    id: 6,
+    title: "COMING SOON!",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+
 },];
 export const webPortfolio = [{
 
     id: 1,
-    title: "COMING SOON!",
+    title: "Password Generator",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
 }, {
     id: 2,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+    title: "Book Search Engine",
+    img: "assets/booksearch.png",
+    link: "https://searchbookapps.herokuapp.com/"
 
 }, {
     id: 3,
-    title: "COMING SOON!",
+    title: "Management",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
 }, {
@@ -49,6 +55,11 @@ export const webPortfolio = [{
 
 }, {
     id: 5,
+    title: "COMING SOON!",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+
+}, {
+    id: 6,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
@@ -77,6 +88,11 @@ export const mobilePortfolio = [{
 
 }, {
     id: 5,
+    title: "COMING SOON!",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+
+}, {
+    id: 6,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 
@@ -133,6 +149,11 @@ export const contentPortfolio = [{
 
 }, {
     id: 5,
+    title: "COMING SOON!",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+
+}, {
+    id: 6,
     title: "COMING SOON!",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
 

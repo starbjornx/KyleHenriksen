@@ -150,7 +150,7 @@
             width: 100%;
             height: 100%;
             transform: rotate(-15deg);
-
+            overflow: hidden;
             @include mobile {
               width: 100%;
             }

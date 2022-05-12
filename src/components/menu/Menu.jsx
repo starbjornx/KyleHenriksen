@@ -24,6 +24,11 @@ export default function menu({ menuOpen, setMenuOpen }) {
             Resume`
           </a>
         </li>
+        <li onClick={() => setMenuOpen(false)}>
+          <a href="https://github.com/starbjornx" target="_blank">
+            Github
+          </a>
+        </li>
       </ul>
     </div>
   );
