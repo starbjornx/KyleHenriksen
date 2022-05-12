@@ -15,10 +15,16 @@ function ContactForm() {
       <div className="right">
         <h2 className="star">Contact.</h2>
         <form onSubmit={handleSubmit}>
-          <label htmlFor="email">Email Address</label>
-          <input id="email" type="email" name="email" />
+          <br></br>
+          <input id="email" type="email" name="email" placeholder="Email" />
+          <br></br>
+          <input placeholder="Full name" />
+          <br></br>
+          <input placeholder="Number" />
+          <br></br>
           <ValidationError prefix="Email" field="email" errors={state.errors} />
-          <textarea id="message" name="message" />
+
+          <textarea id="message" name="message" placeholder="Message" />
           <ValidationError
             prefix="Message"
             field="message"
