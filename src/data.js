@@ -35,18 +35,20 @@ export const webPortfolio = [{
 
     id: 1,
     title: "Password Generator",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZx9L4Eg1zV9PkFcF3REHVpabdE8msKheRA&usqp=CAU",
+    link: "https://starbjornx.github.io/passwordgenerator/"
 
 }, {
     id: 2,
     title: "Book Search Engine",
-    img: "assets/booksearch.png",
+    img: "assets/newbooksearch.png",
     link: "https://searchbookapps.herokuapp.com/"
 
 }, {
     id: 3,
-    title: "Management",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+    title: "Day Planner",
+    img: "assets/dailyplanner.png",
+    link: "https://starbjornx.github.io/dailyplanner/"
 
 }, {
     id: 4,
@@ -68,18 +70,19 @@ export const webPortfolio = [{
 export const mobilePortfolio = [{
 
     id: 1,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+    title: "Game Development",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGxueyEB_KT-hB1GgaDJD4CQL7kkBhrdOZ9w&usqp=CAU",
+
 
 }, {
     id: 2,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+    title: "eCommerce Development",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4rgQK1W__az7OCqcaHlTbqir8DxngqmGfQ&usqp=CAU"
 
 }, {
     id: 3,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+    title: "The Web",
+    img: "assets/theweb.png"
 
 }, {
     id: 4,
@@ -130,17 +133,20 @@ export const contentPortfolio = [{
 
     id: 1,
     title: "Twitch Streamer",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtejT7Gxu2bKawgW8GjwdakS-x5xa3ssDpVA&usqp=CAU"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtejT7Gxu2bKawgW8GjwdakS-x5xa3ssDpVA&usqp=CAU",
+    link: "https://www.twitch.tv/starbjorn_"
+
 
 }, {
     id: 2,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
-
+    title: "TikTok Creator",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQBVwK-0uFc1mOhWPwA-bLSlVKgde6cFdCAA&usqp=CAU",
+    link: "https://www.tiktok.com/@kylehenriksen?is_from_webapp=1&sender_device=pc"
 }, {
     id: 3,
-    title: "COMING SOON!",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsta22yKESivXZFITcV6_nvVKGILsfBq37Mg&usqp=CAU"
+    title: "Youtube Content",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWJSzmd2B2WqqwapuMWVTEjX2v7HtomM_F-A&usqp=CAU",
+    link: "https://www.youtube.com/channel/UCPcELRUpGtiCUX5zsJeHSew"
 
 }, {
     id: 4,
