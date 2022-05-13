@@ -5,10 +5,10 @@ import EmailIcon from "@mui/icons-material/Email";
 export default function Topbar({ menuOpen, setMenuOpen }) {
   return (
     <div className={"topbar " + (menuOpen && "active")}>
-      <div className="wrapper">
+      <div className="wrapper ">
         <div className="left">
           <a href="#intro" className="logo">
-            <p className="background">XP:jr.web-dev</p>
+            <p>XP:jr.web-dev</p>
           </a>
           <div className="itemContainer ">
             <Person className="icon" />

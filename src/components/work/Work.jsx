@@ -35,7 +35,7 @@ function Work() {
       : setCurrentSlider(currentSlide < data.length - 1 ? currentSlide + 1 : 0);
   };
   return (
-    <div className="work background" id="work">
+    <div className="work" id="work">
       <h1 className="star">Completed Work</h1>
       <div
         className="slider"

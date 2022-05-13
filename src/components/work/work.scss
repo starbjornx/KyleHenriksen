@@ -3,17 +3,12 @@
 .background {
   background: url(https://www.animatedimages.org/data/media/1151/animated-dragonball-z-image-0005.gif)
     no-repeat center bottom fixed;
-  //background: url(https://media4.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif)
-  //  no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-size: 25%;
-
-  // background-size: 100%;
-  // background: url(https://giphy.com/gifs/TOEIAnimationUK-dragon-ball-super-goku-ultra-instinct-mastered-8hROtDO2npJNQEiwCX);
-  // background-color: rgb(255, 255, 0);
+  background-size: 15%;
+  width: 150px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -37,7 +32,6 @@
 
     @include mobile {
       display: none;
-      
     }
     &.left {
       left: 450px;
