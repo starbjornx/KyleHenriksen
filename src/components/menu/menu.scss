@@ -37,3 +37,12 @@
     }
   }
 }
+
+.blinkingarrow {
+  animation: arrowBlink 1.5s infinite;
+}
+@keyframes arrowBlink {
+  100% {
+    opacity: 0;
+  }
+}
