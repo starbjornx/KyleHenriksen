@@ -31,20 +31,21 @@
   }
 
   .arrow {
-    height: 350px;
+    height: 150px;
     position: absolute;
     cursor: pointer;
 
     @include mobile {
       display: none;
+      
     }
     &.left {
-      left: 250px;
+      left: 450px;
       transform: rotateY(180deg);
     }
 
     &.right {
-      right: 250px;
+      right: 450px;
     }
   }
   .slider {
@@ -81,7 +82,7 @@
         }
 
         .left {
-          flex: 4;
+          flex: 5;
           height: 80%;
           display: flex;
           align-items: center;
@@ -93,11 +94,13 @@
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+
             @include mobile {
               width: 100%;
               height: 100%;
             }
             .imgContainer {
+              margin-left: 75px;
               width: 90px;
               height: 100%;
               border-radius: 50%;
@@ -105,7 +108,7 @@
               display: flex;
               align-items: center;
               justify-content: center;
-              transform: rotate(-15deg);
+
               @include mobile {
                 width: 20px;
                 height: 20px;
@@ -121,6 +124,7 @@
               }
             }
             h2 {
+              margin: 10px;
               font-size: 18px;
               width: 100%;
               height: 100%;
@@ -145,12 +149,11 @@
           display: flex;
           align-items: center;
           justify-content: center;
-          overflow: hidden;
+
           img {
             width: 100%;
-            height: 100%;
-            transform: rotate(-15deg);
-            overflow: hidden;
+            height: 350px;
+
             @include mobile {
               width: 100%;
             }
