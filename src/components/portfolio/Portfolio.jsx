@@ -74,7 +74,7 @@ export default function Portfolio() {
         ))}
       </div>
       <a
-        href="https://my.indeed.com/p/kyleh-1khvfbl"
+        href="https://drive.google.com/file/d/1dzoJdJmnDJourjWzBNlZx6jhCjRmGqJg/view?usp=sharing"
         target="_blank"
         style={{ textDecoration: "none" }}
       >

@@ -10,11 +10,7 @@ function ContactForm() {
   return (
     <div className="contact" id="contact">
       <div className="left">
-        <img
-          src="assets/hands.svg"
-          alt=""
-          style={{ margin: "100px 40px" }}
-        />
+        <img src="assets/hands.svg" alt="" style={{ margin: "100px 40px" }} />
       </div>
       <div className="right">
         <h2 className="star">Contact.</h2>
