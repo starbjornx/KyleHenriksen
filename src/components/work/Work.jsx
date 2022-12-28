@@ -35,11 +35,13 @@ function Work() {
       : setCurrentSlider(currentSlide < data.length - 1 ? currentSlide + 1 : 0);
   };
   return (
-    <div className="work" id="work">
-      <h1 className="star">Completed Work</h1>
+    <div className="work bg-custom" id="work">
+      <h1 className="" style={{ fontSize: "45px" }}>
+        Completed Work
+      </h1>
       <div
         className="slider"
-        style={{ transform: `translateX(-${currentSlide * 100}vw)` }}
+        style={{ transform: `translateX(-${currentSlide * 50}vw)` }}
       >
         {data.map((d) => (
           <div className="container">

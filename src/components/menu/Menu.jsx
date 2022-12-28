@@ -24,22 +24,15 @@ export default function menu({ menuOpen, setMenuOpen }) {
           className="line"
           style={{
             border: "1px solid gray",
-            margin: "20px",
-            marginTop: "50px",
           }}
         ></div>
-        <p
-          style={{
-            marginLeft: "30px",
-            marginBottom: "40px",
-          }}
-        >
-          Professional
-        </p>
+        <br></br>
+
         <li onClick={() => setMenuOpen(false)}>
           <a href="https://github.com/starbjornx" target="_blank">
             Github
             <img
+              className="imgbg"
               src="assets/GitHub-Logo.png"
               style={{ width: "25%", marginLeft: "80px" }}
             />
@@ -57,7 +50,7 @@ export default function menu({ menuOpen, setMenuOpen }) {
             />
           </a>
         </li>
-        <li onClick={() => setMenuOpen(false)}>
+        <li onClick={() => setMenuOpen(false)} style={{ margin: "" }}>
           <a
             href="https://drive.google.com/file/d/1dzoJdJmnDJourjWzBNlZx6jhCjRmGqJg/view?usp=sharing"
             target="_blank"
@@ -65,7 +58,11 @@ export default function menu({ menuOpen, setMenuOpen }) {
             Resume`
             <img
               src="assets/arrowleft.png"
-              style={{ width: "10%", marginLeft: "80px", height: "55px" }}
+              style={{
+                width: "10%",
+                marginLeft: "80px",
+                height: "55px",
+              }}
               className="blinkingarrow"
             />
           </a>

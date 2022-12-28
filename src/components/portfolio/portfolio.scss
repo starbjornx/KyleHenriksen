@@ -1,30 +1,30 @@
 @import "../../global.scss";
 
-.star {
-  // @import url("https://fonts.googleapis.com/css2?family=Anton&family=Bungee&family=EB+Garamond&family=Orbitron:wght@900&family=Passion+One:wght@700&display=swap");
-  //font-family: Garamond;
-  // font-size: 2.5rem;
-  // background-color: #f3ec78;
-  background: url(https://media4.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
+// .star {
+//   // @import url("https://fonts.googleapis.com/css2?family=Anton&family=Bungee&family=EB+Garamond&family=Orbitron:wght@900&family=Passion+One:wght@700&display=swap");
+//   //font-family: Garamond;
+//   // font-size: 2.5rem;
+//   // background-color: #f3ec78;
+//   background: url(https://media4.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif);
+//   background-size: 100%;
+//   -webkit-background-clip: text;
+//   -moz-background-clip: text;
+//   -webkit-text-fill-color: transparent;
+//   -moz-text-fill-color: transparent;
+// }
 
 .portfolio {
-  // background: url(https://www.animatedimages.org/data/media/1151/animated-dragonball-z-image-0005.gif)
-  //   no-repeat center center fixed;
-  // background: url(https://media4.giphy.com/media/1gVUhlXhETaRRxzeHO/giphy.gif)
-  //   no-repeat center center fixed;
-  // -webkit-background-size: cover;
-  // -moz-background-size: cover;
-  // -o-background-size: cover;
-  // background-size: cover;
-  // background-size: 100%;
-  // background: url(https://giphy.com/gifs/TOEIAnimationUK-dragon-ball-super-goku-ultra-instinct-mastered-8hROtDO2npJNQEiwCX);
-  // background-color: rgb(255, 255, 0);
+  // background-image: linear-gradient(rgb(23, 0, 22), rgb(22, 100, 23));
+  background: url(https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
+    center fixed no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: 100%;
+  @include mobile {
+    background-size: 200%;
+  }
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -54,8 +54,10 @@
       cursor: pointer;
 
       &.active {
-        background-color: $mainColor;
-        color: white;
+        background-color: rgb(0, 17, 128);
+        color: rgb(0, 193, 35);
+        font-weight: 700;
+        font-style: underlined;
       }
     }
   }
@@ -85,6 +87,7 @@
       transition: all 0.5 ease;
       cursor: pointer;
       z-index: 0;
+
       @include mobile {
         width: 130px;
         height: 100px;
@@ -102,13 +105,13 @@
         height: 100%;
         object-fit: contain;
         object-position: 0px 0px;
-        transition: object-position 6s ease;
+        // transition: object-position 6s ease;
       }
       &:hover {
-        background-color: $mainColor;
-
+        transition: all 0.5s ease;
+        transform: scale(1.1);
         img {
-          opacity: 0.2;
+          opacity: 0.6;
         }
         h3 {
           display: inherit;
@@ -117,20 +120,32 @@
       }
     }
   }
-  .resume {
-    border: 1px solid red;
-    background-color: crimson;
+}
+.resume {
+  // background-color: crimson;
+  color: rgb(32, 28, 28);
+  width: 150px;
+  height: 50px;
+  border: none;
+  border-radius: 0px 0px 25px 25px;
+  font-weight: 500;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-decoration: none;
+  &:hover {
+    background-color: rgb(14, 183, 8);
     color: white;
-    width: 150px;
-    height: 50px;
-    border: none;
-    border-radius: 10px;
-    font-weight: 500;
-    cursor: pointer;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    text-decoration: none;
+    box-shadow: 0px 0px 1550px rgb(255, 0, 255);
+
+    img {
+      opacity: 0.2;
+    }
+    h3 {
+      display: inherit;
+      font-size: 10px;
+    }
   }
 }
 
@@ -161,4 +176,10 @@
       width: 80%;
     }
   }
+}
+
+video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }

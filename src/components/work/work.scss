@@ -1,12 +1,6 @@
 @import "../../global.scss";
 
 .background {
-  background: url(https://www.animatedimages.org/data/media/1151/animated-dragonball-z-image-0005.gif)
-    no-repeat center bottom fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   background-size: 15%;
   width: 150px;
   display: flex;
@@ -14,7 +8,13 @@
   align-items: center;
 }
 .work {
-  background-color: crimson;
+  // background-image: linear-gradient(rgb(22, 100, 23), rgb(255, 255, 255));
+  background: url(https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+    no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
